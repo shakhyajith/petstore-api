@@ -8,11 +8,13 @@ Automated test suite for [Pet Store](https://petstore.swagger.io/)
 
 ## How to use
 1. Clone the project
-2. Navigate to ** petstore-api **
+2. Navigate to **~/petstore-api**
 3. `npm install`
-4. Add configurations into ** src/config/app-config.js **
+4. Add configurations into **src/config/app-config.js**
+5. `npm test`
 
 
 ## Configurations
-TEST_DATA_DIR = "src/data"
-BASE_URL =  "https://petstore.swagger.io/v2"
+TEST_DATA_DIR = src/data
+<br>
+BASE_URL =  https://petstore.swagger.io/v2
