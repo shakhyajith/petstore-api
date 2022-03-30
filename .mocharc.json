@@ -1,0 +1,6 @@
+{
+    "color": true,
+    "diff": true,
+    "timeout": 50000,
+    "ui": "bdd"
+}
